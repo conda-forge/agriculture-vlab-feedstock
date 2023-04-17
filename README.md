@@ -1,11 +1,11 @@
-About agriculture-vlab
-======================
+About agriculture-vlab-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/agriculture-vlab-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/agriculture-vlab/agriculture-vlab
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/agriculture-vlab-feedstock/blob/main/LICENSE.txt)
 
 Summary: An environment for analysis of agricultural earth observation data
 
