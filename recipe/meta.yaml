@@ -1,5 +1,5 @@
 {% set name = "agriculture-vlab" %}
-{% set version = "0.3.1" %}
+{% set version = "0.3.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/agriculture-vlab/{{ name }}/archive/v{{ version }}.tar.gz
-  sha256: ddd8090efcd6fb9fdde68bc9ce759686a952718e6bc41339df2fdd730953e247
+  sha256: 9bc89a4b8737bac2e2378ada01f180d3e77deac9fd25ad10167506b0066c68a3
 
 build:
   noarch: python
